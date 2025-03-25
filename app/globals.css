@@ -32,6 +32,10 @@
 
   /* Border Radius */
   --radius: 8px;
+
+  /* Font families */
+  --font-inter: var(--font-inter);
+  --font-space-grotesk: var(--font-space-Grotesk);
 }
 
 /* Custom Utilities */
